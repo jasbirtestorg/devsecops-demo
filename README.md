@@ -15,7 +15,7 @@
 
 ## Technologies Used
 
-- React 18
+- React 18.
 - TypeScript
 - Tailwind CSS
 - Lucide React for icons
